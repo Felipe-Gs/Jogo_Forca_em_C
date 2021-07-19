@@ -1,3 +1,9 @@
+//Felipe Gomes
+//Felipe Cesar
+//Honycleytton Rebouças
+//Jovito Maia
+//Matheus Santos
+
 #include <stdio.h>   // Biblioteca Padrão de C, tem comandos básicos de entrada e saida.
 #include <time.h>    // Biblioteca Usada para gerar numeros aleatários
 #include <stdlib.h>  // Usada Para Comandos System(" ")
@@ -365,6 +371,6 @@ int main()
      
 //Felipe Gomes
 //Felipe Cesar
-//Hony
-//Jovito
-//Matheus
+//Honycleytton Rebouças
+//Jovito Maia
+//Matheus Santos
