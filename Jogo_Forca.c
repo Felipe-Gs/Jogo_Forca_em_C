@@ -1,5 +1,4 @@
 //Grupo de Trabalho
-
 //Felipe Gomes
 //Felipe Cesar
 //Honycleytton Rebouças
@@ -373,6 +372,6 @@ int main()
      
 //Felipe Gomes
 //Felipe Cesar
-//Honycleytton Rebouças
-//Jovito Maia
-//Matheus Santos
+//Hony
+//Jovito
+//Matheus
