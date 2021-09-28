@@ -1,0 +1,160 @@
+cachorro
+gato
+cavalo
+elefante
+ornitorrinco
+avestruz
+coruja
+cegonha
+abelha
+anta
+aranha
+borboleta
+besouro
+barata
+coelho
+canguru
+esquilo
+formiga
+flamingo
+golfinho
+guaxinim
+gorila
+hamster
+hiena
+galo
+lagartixa
+marreco
+orangotango
+pinguim
+quimera
+rinoceronte
+salamandra
+seriema
+tucano
+vespa
+burro
+baleia
+camelo
+cabra
+hipopotamo
+iguana
+William Bonner
+Zeca Camargo
+Pedro Bial
+Gloria Maria
+George Clooney
+Bono Vox
+Shakira
+Madonna
+Brad Pitt
+Angelina Jolie
+Jim Carrey
+Ivete Sangalo
+Dilma Rousseff
+Johnny Depp
+Ziraldo
+Xuxa
+Adolf Hitler
+Fiodor Dostoievski
+John Kennedy
+Juscelino Kubitschek
+Mahatma Gandhi
+Benito Mussolini
+Fidel Castro
+Che Guevara
+Nelson Mandela
+Albert Einstein
+Santos Dumont
+Graham Bell
+Mozart
+Aristoteles
+Arquimedes
+Caetano Veloso
+Candido Portinari
+Clarice lispector
+Charles Darwin
+Elvis Presley
+Monteiro Lobato
+Leonardo da Vinci
+Carmem Miranda
+China
+Estados unidos
+Indonesia
+Brasil
+Bangladesh
+Alemanha
+Egito
+Turquia
+Reino Unido
+Espanha	
+Argentina
+Marrocos
+Iraque
+Nepal
+Venezuela
+Gana
+Taiwan
+Rio de Janeiro
+Sri Lanka
+Costa do Marfim
+Madagascar
+Chile
+Equador
+Camboja
+Guatemala
+Angola
+Portugal
+Hungria
+Haiti
+Honduras	
+Israel
+Hong Kong
+Paraguai
+Serra Leoa
+Dinamarca
+Eslovaquia
+Noruega
+Costa Rica
+Inglaterra
+Irlanda
+casaco
+coroa
+lente
+travesseiro
+xampu
+colher
+agulha
+banco
+brinco
+sacola
+balde
+pente
+telha
+torneira
+moeda
+guardanapo
+chave
+espelho
+isqueiro
+envelope
+sabonete
+ampulheta
+grampeador
+pantufa
+toalha
+anzol
+bexiga
+cartola
+prato
+gaveta
+gaiola
+cortina
+canivete
+vassoura
+garrafa
+dentadura
+chinelo
+celular
+funil
+lixeira
